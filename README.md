@@ -191,3 +191,4 @@ if __name__ == "__main__":
 
 
 ### RESULT:
+The result is an interactive PDF chatbot that provides quick, precise answers from the PDF content without manually reading the document.
